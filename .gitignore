@@ -1,0 +1,23 @@
+# Eclipse
+.project
+.classpath
+.settings
+eclipse_config/
+
+# Maven
+target
+*.versionsBackup
+dependency-reduced-pom.xml
+/.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+/.idea/
+*.iml
+/gen/
+
+# Jekyll
+/website/_site/
+
+# Misc
+*.patch
+sys$command
